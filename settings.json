@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thesummertime.aternos.me:16161",
+    "ip": "thesummertime.aternos.me",
     "port": 16161,
     "version": "",
     "try-creative": false
