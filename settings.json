@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "thesummertime.aternos.me",
-    "port": ,
+    "port": 16161,
     "version": "",
     "try-creative": false
   },
