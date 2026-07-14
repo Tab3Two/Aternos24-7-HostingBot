@@ -8,7 +8,7 @@
   "server": {
     "ip": "mudminnow.aternos.host",
     "port": 16161,
-    "version": "1.26.2",
+    "version": "1.21.7",
     "try-creative": false
   },
   "position": {
