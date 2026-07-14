@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thesummertime.aternos.me",
+    "ip": "mudminnow.aternos.host",
     "port": 16161,
-    "version": "1.21.7",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
