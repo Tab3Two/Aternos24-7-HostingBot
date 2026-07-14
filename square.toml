@@ -1,6 +1,0 @@
-[main]
-DISPLAY_NAME = "Aternos AFK Bot"
-DESCRIPTION = "Bot treomay giu server Aternos 24/7"
-MAIN = "index.js"
-RAM = 100
-VERSION = "recommended"
