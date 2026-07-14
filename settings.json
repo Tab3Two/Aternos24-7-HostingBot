@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ABC nek",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "thesummertime.aternos.me",
+    "port": ,
     "version": "",
     "try-creative": false
   },
